@@ -1,0 +1,25 @@
+# cafe‑central‑app
+## Descripción
+Aplicación web para que los clientes de la cafetería Café Central consulten el menú, vean precios, se registren y realicen pedidos desde celular o computadora.
+
+## Problema que resuelve
+Los clientes no contaban con una forma rápida para ver el menú y enviar pedidos sin acudir directamente al local.
+
+## Funcionalidades principales
+‑ Consulta del menú y precios
+‑ Registro de clientes
+‑ Selección de productos
+‑ Creación de pedidos
+‑ Consulta del estado del pedido
+
+## Integrantes del equipo
+‑ Ana (análisis y diseño)
+‑ Luis (historias y módulo de pedidos)
+‑ María (diseño de pantallas)
+‑ Javier (estructura y código inicial)
+
+## Tecnologías a utilizar
+‑ Python + Flask
+‑ HTML y CSS
+‑ Base de datos SQLite
+‑ Git y GitHub para control de versiones
